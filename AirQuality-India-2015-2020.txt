@@ -1,0 +1,20 @@
+AirQuality-India-2015-2020/
+│
+├── data/
+│   └── air_quality_data.csv              
+│
+├── figures/
+│   ├── Fig1_PM25_Trends.png
+│   ├── Fig2_PM10_Trends.png
+│   ├── Fig3_PM25_PM10_Cities.png
+│   ├── Fig4_AQI_Trends.png
+│   ├── Fig5_CityComparison_Heatmap.png
+│   └── Fig6_PolicyTimeline.png
+│
+├── notebooks/
+│   └── AirQuality_Analysis.ipynb         
+│
+├── scripts/
+│   └── generate_figures.py               
+│
+└── README.md

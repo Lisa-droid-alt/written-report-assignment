@@ -1,0 +1,13 @@
+# Air Quality in India (2015–2020) – Analysis and Visualization
+
+This repository contains analytical scripts and visualizations for examining air quality trends in India from 2015 to 2020.
+
+## 📊 Figures Generated
+- **Fig 1:** PM₂.₅ Concentration Trends  
+- **Fig 2:** PM₁₀ Concentration Trends  
+- **Fig 3:** PM₂.₅ vs PM₁₀ Comparison by City  
+- **Fig 6:** Timeline of Major Air-Quality Policy Interventions  
+
+## ⚙️ Requirements
+```bash
+pip install matplotlib numpy
